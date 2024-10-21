@@ -1,10 +1,13 @@
 package cli
 
+//Help Module
+//Create by JiuXia2025 <2025226181@qq.com> <Blog.InekoXia.COM>
+
 import "fmt"
 
 func PrintHelp() {
 	fmt.Println()
-	fmt.Println("----- OceanCloud-Glance_CLI 帮助列表 -----")
+	fmt.Println("----- OceanCloud-Image_CLI 帮助列表 -----")
 	fmt.Println("启动主服务：./ocimage start")
 	fmt.Println("初始化数据库：./ocimage setup")
 	fmt.Println("镜像列表：./ocimage listImage")
