@@ -23,6 +23,7 @@ config.yaml中填入数据库信息（暂时只支持MySQL不支持SQLite）
 
 #### 命令行模式
 
+```
 查看帮助：./ocimage --help
 
 启动主服务：./ocimage start
@@ -31,3 +32,5 @@ config.yaml中填入数据库信息（暂时只支持MySQL不支持SQLite）
 创建镜像：./ocimage createImage <镜像类型:{centos,ubuntu,debian,windows}> <镜像路径> <镜像显示名称>
 删除镜像：./ocimage deleteImage <镜像ID>
 查询镜像：./ocimage infoImage <镜像ID>
+```
+
