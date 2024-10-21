@@ -34,3 +34,8 @@ config.yaml中填入数据库信息（暂时只支持MySQL不支持SQLite）
 查询镜像：./ocimage infoImage <镜像ID>
 ```
 
+#### API文档
+
+文档地址：[OceanCloud](https://apifox.com/apidoc/shared-dd3f0669-966a-4a18-8109-cc87189cbc71)
+
+开发中，后续可能会有变动
