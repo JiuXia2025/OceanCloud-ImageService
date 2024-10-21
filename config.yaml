@@ -1,0 +1,11 @@
+app_name: OceanCloud-Image
+debug: false
+version: 1.0
+database:
+  host: localhost
+  port: 3306
+  user: root
+  password: root
+  db_name: ocean
+  db_type: mysql
+  sqlite_file: ./db/data.db
