@@ -1,5 +1,9 @@
 ## OceanCloud - Image
 
+![preview1](./doc/preview1.png)
+
+![preview2](./doc/preview2.png)
+
 随手写的QEMU镜像管理服务，与Dashboard、主控制器、计算节点配套
 
 目前还是未完工的状态仅供参考，刚学golang写的有点烂，开发中，后期可能会考虑重构
