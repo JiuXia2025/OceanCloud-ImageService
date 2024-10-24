@@ -1,8 +1,8 @@
 ## OceanCloud - Image
 
-![preview1](./doc/preview1.png)
+![preview1](https://ghp.ci/https://raw.githubusercontent.com/JiuXia2025/OceanCloud-ImageService/master/doc/preview1.png)
 
-![preview2](./doc/preview2.png)
+![preview2](https://ghp.ci/https://raw.githubusercontent.com/JiuXia2025/OceanCloud-ImageService/master/doc/preview2.png)
 
 随手写的QEMU镜像管理服务，与Dashboard、主控制器、计算节点配套
 
